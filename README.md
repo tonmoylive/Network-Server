@@ -1,6 +1,6 @@
 # CODEX Communication LTD - Network Simulation Project 🏠
-[![Stars](https://img.shields.io/github/stars/tonmoylive/household_service_provider?style=social)]()
-[![Forks](https://img.shields.io/github/forks/tonmoylive/household_service_provider?style=social)]()
+[![Stars](https://img.shields.io/github/stars/tonmoylive/server?style=social)]()
+[![Forks](https://img.shields.io/github/forks/tonmoylive/server?style=social)]()
 
 
 This project, created in Cisco Packet Tracer, simulates a complete network for a fictional company, "CODEX Communication LTD." It demonstrates the configuration and interaction of essential network services, including DNS, DHCP, HTTP, and Email.
@@ -38,8 +38,8 @@ The DNS and HTTP services are fully functional. A client PC can successfully nav
 ## How to Use 💡
 
 1.  Ensure you have a compatible version of Cisco Packet Tracer installed on your system.
-2.  Download the project file: `Sever.pkt`.
-3.  Open `Sever.pkt` using Cisco Packet Tracer.
+2.  Download the project file: `Office Network Simulation.pkt`.
+3.  Open `Office Network Simulation.pkt` using Cisco Packet Tracer.
 4.  The simulation will load in "Realtime" mode. You can switch to "Simulation" mode to observe packet flow step-by-step.
 5.  To test the services, you can:
     -   Open a web browser from any client PC and navigate to `http://www.codex.com`.
@@ -55,8 +55,8 @@ This project has no license.
 
 
 ## Important Links 🔗
-- **Repository Link:** [https://github.com/tonmoylive/household_service_provider](https://github.com/tonmoylive/household_service_provider)
-- **Live Project:** [https://sheba.infy.uk](https://sheba.infy.uk)
+- **Repository Link:** [https://github.com/tonmoylive/server](https://github.com/tonmoylive/server)
+
 
 
 
@@ -65,6 +65,6 @@ If you find this project helpful, consider forking it to explore and implement y
 Also, feel free to contribute, suggest improvements, report bugs, request features.
 
 <footer>
-  <p>© 2025 <a href="https://github.com/tonmoylive/household_service_provider">household_service_provider</a> by <a href="https://mdanikbiswas.rf.gd/">MD ANIK BISWAS</a></p>
+  <p>© 2025 <a href="https://github.com/tonmoylive/server">Office Network Simulation</a> by <a href="https://mdanikbiswas.rf.gd/">MD ANIK BISWAS</a></p>
   <p> Feel free to contribute ,report bugs , request features, like and give a star ⭐ to this repository. </p>
 </footer>
