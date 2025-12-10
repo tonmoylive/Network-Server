@@ -1,6 +1,6 @@
 # CODEX Communication LTD - Network Simulation Project 🏠
-[![Stars](https://img.shields.io/github/stars/tonmoylive/server?style=social)]()
-[![Forks](https://img.shields.io/github/forks/tonmoylive/server?style=social)]()
+[![Stars](https://img.shields.io/github/stars/tonmoylive/Network-Server?style=social)]()
+[![Forks](https://img.shields.io/github/forks/tonmoylive/Network-Server?style=social)]()
 
 
 This project, created in Cisco Packet Tracer, simulates a complete network for a fictional company, "CODEX Communication LTD." It demonstrates the configuration and interaction of essential network services, including DNS, DHCP, HTTP, and Email.
@@ -55,7 +55,7 @@ This project has no license.
 
 
 ## Important Links 🔗
-- **Repository Link:** [https://github.com/tonmoylive/server](https://github.com/tonmoylive/server)
+- **Repository Link:** [https://github.com/tonmoylive/server](https://github.com/tonmoylive/Network-Server)
 
 
 
@@ -65,6 +65,6 @@ If you find this project helpful, consider forking it to explore and implement y
 Also, feel free to contribute, suggest improvements, report bugs, request features.
 
 <footer>
-  <p>© 2025 <a href="https://github.com/tonmoylive/server">Office Network Simulation</a> by <a href="https://mdanikbiswas.rf.gd/">MD ANIK BISWAS</a></p>
+  <p>© 2025 <a href="https://github.com/tonmoylive/Network-Server">Office Network Simulation</a> by <a href="https://mdanikbiswas.rf.gd/">MD ANIK BISWAS</a></p>
   <p> Feel free to contribute ,report bugs , request features, like and give a star ⭐ to this repository. </p>
 </footer>
